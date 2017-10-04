@@ -1,7 +1,7 @@
 {
   "name": "bpmn-exec",
   "version": "0.2.2",
-  "description": "BPMN 2.0 execution engine",
+  "description": "JS BPMN 2.0 execution engine",
   "main": "./lib/public.js",
   "keywords": [
     "bpmn",
@@ -13,10 +13,6 @@
   ],
   "dependencies": {
     "sax": ">= 0.5.2",
-    "jaguardb": ">= 0.1.3",
-    "winston": ">= 0.7.1",
-    "restify": ">= 2.5.1",
-    "bunyan": ">= 0.21.3",
     "node-uuid": ">= 1.4.0",
     "underscore.string": "^2.3.3",
     "async": "0.9.0"
@@ -26,7 +22,7 @@
     "commander": ">= 2.0.0",
     "istanbul": ">= 0.1.44"
   },
-  "repository": "https://github.com/e2ebridge/bpmn.git",
-  "author": "support@e2ebridge.com",
+  "repository": "https://github.com/mmelitzer/bpmn-exec.git",
+  "author": "mmelitzer@gmail.com",
   "license": "MIT"
 }

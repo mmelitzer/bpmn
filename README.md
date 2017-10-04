@@ -1,3 +1,15 @@
+Fork Changes
+------------
+This project was used during Hackweek 2017 and stripped of all it's node only dependencies so it could run in the browser.
+It was only used with Collaboration Processes
+- `Renamed to bpmn-exec`
+- `Removed all node or then unused dependencies`
+- `Replaced persistency with simple JS object which can be 'dumped' and used to save and reinitialize`
+- `Fixed various issues with collaboration processes initialization from xml`
+- `Added restart process with callback of individual elements and process to update in diagram`
+- `Added go-back (one step in the process) functionality`
+
+
 bpmn
 ====
 This module executes BPMN 2.0 processes.
