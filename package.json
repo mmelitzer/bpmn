@@ -1,6 +1,6 @@
 {
-  "name": "bpmn-exec",
-  "version": "0.2.2",
+  "name": "bpmn-js-exec",
+  "version": "0.2.3",
   "description": "JS BPMN 2.0 execution engine",
   "main": "./lib/public.js",
   "keywords": [
@@ -22,7 +22,7 @@
     "commander": ">= 2.0.0",
     "istanbul": ">= 0.1.44"
   },
-  "repository": "https://github.com/mmelitzer/bpmn-exec.git",
+  "repository": "https://github.com/mmelitzer/bpmn-js-exec.git",
   "author": "mmelitzer@gmail.com",
   "license": "MIT"
 }
