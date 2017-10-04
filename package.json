@@ -1,6 +1,6 @@
 {
   "name": "bpmn-exec",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "JS BPMN 2.0 execution engine",
   "main": "./lib/public.js",
   "keywords": [
